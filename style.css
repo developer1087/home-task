@@ -1,0 +1,20 @@
+#triangle {
+  border: 1px solid black;
+  margin: 20px;
+  padding: 20px;
+  background-color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 10px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 20px;
+  width: 800px;
+  height: 800px;
+}
